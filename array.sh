@@ -1,4 +1,4 @@
-
+echo -e "This is first BIT project"
 brightness_4
 # Sorting the array in Bash  
 # using Bubble sort 
