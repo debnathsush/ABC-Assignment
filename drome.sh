@@ -1,4 +1,5 @@
-num=545 
+echo -e "Changes done by GIT BASH"
+m=545 
    
 # Storing the remainder 
 s=0 
